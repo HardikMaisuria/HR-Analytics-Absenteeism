@@ -11,4 +11,4 @@ This is an end-to-end project.
 
 ## 🔍 Dashboard Preview
 
-![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
+![HR Analytics Dashboard](Dashboard-1.png)
